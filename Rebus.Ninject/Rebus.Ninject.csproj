@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NinjectContainerAdapter.cs" />
+    <Compile Include="NinjectContainerExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo_Patch.cs" />
     <None Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
